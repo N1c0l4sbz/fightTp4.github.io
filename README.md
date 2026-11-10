@@ -17,11 +17,11 @@ La página de inicio y la sección Cursos se abren desde `localhost`, con la nav
 
 **1. Inicio del sitio en PHP.**
 
-![Página inicial Impact Fight abierta en localhost](../capturas%20baez/capturas%20baez%20tp4/index-php.png)
+![Página inicial Impact Fight abierta en localhost](/capturas%20baez/capturas%20baez%20tp4/index-php.png)
 
 **2. Carpeta `includes/` y archivos reutilizables.**
 
-![Explorador de VS Code con archivos header php nav php y footer php](../capturas%20baez/capturas%20baez%20tp4/captura-includes.png)
+![Explorador de VS Code con archivos header php nav php y footer php](/capturas%20baez/capturas%20baez%20tp4/captura-includes.png)
 
 **3. Navegación activa en la sección Cursos.**
 
